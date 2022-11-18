@@ -2,15 +2,15 @@
     "params":
     {
         "local_server":"True",
-        "local_uri": "mysql://root:@localhost/learn_with_me",
-        "prod_uri": "mysql://root:@localhost/learn_with_me",
-        "fb_url":"https://facebook.com/thunder",
-        "tw_url":"https://twitter.com/learn_with_me",
-        "gh_url":"https://github.com/learn_with_me",
+        "local_uri": "mysql://root:@localhost/db_name",
+        "prod_uri": "mysql://root:@localhost/db_name",
+        "fb_url":"https://facebook.com/",
+        "tw_url":"https://twitter.com/",
+        "gh_url":"https://github.com/",
         "blog_name":"Learner's Blog",
         "tagline": "A blog dedicated to learners!",
-        "gmail-user": "raunakvarma05@gmail.com",
-        "gmail-password":"lootadcrpscicuie",
+        "gmail-user": "this @ that",
+        "gmail-password":"no lie",
         "about_text":" learning is fun until you burn!!!",
         "no_of_posts": 3,
         "login_image":"login.svg",
@@ -18,5 +18,4 @@
         "admin_password":"12345678",
         "upload_location":"C:\\Users\\asus\\vs web-2\\static"
     }
-
 }
